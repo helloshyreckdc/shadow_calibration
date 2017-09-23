@@ -18,5 +18,6 @@ run the rosrun command showing in the gui
 
 moveit add pointcloud2  registrated 
 
-rosrun tf static_transform_publisher  -1.072694  -0.956061  0.220491  -0.014582  0.059231  -0.485862  -0.871905    /base_link /camera_link 40
+
+rosrun tf static_transform_publisher  -1.082850  -0.914359  0.264033  -0.023216  0.043897  -0.477889  -0.877016    /base_link /camera_link 40
 
