@@ -1,4 +1,6 @@
 # shadow_calibration
+first, remember to set the robot TCP to its original position(if you installed gripper and force sensor)
+second, don't change robot ee_link to somewhere else, else calibration would fail
 camera calibration (set the resolution to highmode)
 operation:   rosrun rqt_reconfigure rqt_reconfigure
 camera-driver-color_mode SXGA_30Hz
