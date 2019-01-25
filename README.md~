@@ -6,7 +6,6 @@ second, don't change robot ee_link to somewhere else, else calibration would fai
 camera calibration (set the resolution to highmode)
 operation:   rosrun rqt_reconfigure rqt_reconfigure
 camera-driver-color_mode SXGA_30Hz
-choose depth register
 
 
 copy the data(rgb) into ~/demo/camera_info
